@@ -1,0 +1,122 @@
+[
+  {
+    "id": "3877545327197226807",
+    "username": "stability.ai",
+    "text": "Your brand isn’t everyone. It’s everything. Introducing Brand Studio by Stability AI, the creative production platform built just for you. \n \nGet started at the link in bio.",
+    "like_count": 9,
+    "reply_count": 0,
+    "repost_count": 0,
+    "created_at": 1776459664,
+    "url": "https://www.threads.net/@stability.ai/post/DXPzu5UEQc3"
+  },
+  {
+    "id": "3734687900757071852",
+    "username": "stability.ai",
+    "text": "This week’s Stability Seconds shows how you can quickly iterate across multiple musical directions with Stable Audio 2.5 ⏩\n\nStarting with one short video clip, we applied three different prompts to shift the genre and mood of the video’s track in seconds:\n\n1️⃣ Shoegaze synth: Dreamy and hazy\n2️⃣ Ethereal classical: Airy and uplifting\n3️⃣ Experimental drone: Textured and cinematic\n\nYou can learn more and start using Stable Audio 2.5 on our website's learning hub.",
+    "like_count": 56,
+    "reply_count": 9,
+    "repost_count": 0,
+    "created_at": 1759429534,
+    "url": "https://www.threads.net/@stability.ai/post/DPURtvHkxfs"
+  },
+  {
+    "id": "3733206486307412374",
+    "username": "stability.ai",
+    "text": "How are artists using AI to make music? 🎶\n\nThat’s what our Audio Research team set out to understand when they analyzed 337 musical works. The research examines how artists are using AI tools in their creative and production process.\n\nWe’re sharing the key findings, with insight on emerging AI music creation practices that artists and creative professionals can draw inspiration from.\n\nYou can read the full paper and learn more on our website's learning hub.",
+    "like_count": 42,
+    "reply_count": 7,
+    "repost_count": 0,
+    "created_at": 1759252914,
+    "url": "https://www.threads.net/@stability.ai/post/DPPA4UZiZmW"
+  },
+  {
+    "id": "3729664615346490859",
+    "username": "stability.ai",
+    "text": "In this week’s Stability Seconds, we’re showing you how to generate custom, commercially safe audio for your next video project with Stable Audio 2.5 🎵\n\nHere’s how you can do it:\n\n▶️ Find a short video clip that you want to add sound to.\n▶️ Prompt Stable Audio 2.5 for genre, overall mood, and instruments that match your video.In our prompt, we used terms like “cinematic,” “awe-inspiring,” and “dramatic horn section.” \n▶️ Generate a 3-minute track, then scrub through to find the best cut.\n▶️ Add that audio to your clip to create a polished soundtrack.\n\nYou can learn more and start using Stable Audio 2.5 on our website's learning hub.",
+    "like_count": 34,
+    "reply_count": 5,
+    "repost_count": 0,
+    "created_at": 1758830724,
+    "url": "https://www.threads.net/@stability.ai/post/DPCbjUBEk3r"
+  },
+  {
+    "id": "3728090939656319414",
+    "username": "stability.ai",
+    "text": "With the release of our latest audio model Stable Audio 2.5, we’re sharing our updated best practices for prompting.\n\nBuilt for enterprise-grade sound production, Stable Audio 2.5 introduces capabilities like improved musical structure, faster inference at less than 2 seconds on a GPU, and support for audio inpainting.\n\nWith effective prompting techniques, you can get the most out of Stable Audio 2.5 for professional use cases like advertising, game soundtracks, and short-form video. \n\nYou can read the full guide with the link in our bio.",
+    "like_count": 29,
+    "reply_count": 0,
+    "repost_count": 0,
+    "created_at": 1758643094,
+    "url": "https://www.threads.net/@stability.ai/post/DO81vUUkTG2"
+  },
+  {
+    "id": "3718627736811632225",
+    "username": "stability.ai",
+    "text": "Today we’re launching Stable Audio 2.5: The first audio model built for enterprise-grade sound production 🔊\n\nAudio influences brand engagement by 86%, but few enterprises are leveraging audio as an extension of their brand, making customized sound an untapped differentiator. \n\nStable Audio 2.5 is purpose-built for this opportunity to create customizable, high-quality audio at scale, with capabilities that include:\n\n▶️ Improved musical composition: Generate full songs with multi-part structure, meaning a clear intro, middle, and outro.\n\n▶️ Audio inpainting: Input audio, select where the track should start, and the model uses the context to generate the rest of the track.\n\n▶️ Customization: Our team can fine-tune Stable Audio 2.5 to help enterprises create the right sound for their brand. \n\n▶️ Faster inference: The model can generate up to three-minute long tracks in under two seconds on a GPU, outputting in just eight steps (compared to ~50 in the previous model).\n\nWith the launch of Stable Audio 2.5, we’re also partnering with leading sound branding agency amp, part of the Landor Group, a @wpp company, to co-develop enterprise solutions for innovative brands who want to create iconic sound identities and experiences.\n\nYou can try Stable Audio 2.5 now at StableAudio.com and the Stability AI API, as well as through our platform partners 👉 Fal, @replicate_hq , and @comfyui.\n\nYou can learn more with the link in our bio.",
+    "like_count": 58,
+    "reply_count": 1,
+    "repost_count": 0,
+    "created_at": 1757515020,
+    "url": "https://www.threads.net/@stability.ai/post/DObODl4knZh"
+  },
+  {
+    "id": "3713560292485039752",
+    "username": "stability.ai",
+    "text": "How did @hubspot increase image generation on their platform by 150%? With Stable Diffusion 3.5 Large on Amazon Bedrock ✅\n\nWhen HubSpot was looking for a way to give their customers on-brand image generation without limits on their AI-driven platform, they found a solution using our models via Amazon Bedrock. \n\nRead the full case study with the link in our bio.",
+    "like_count": 19,
+    "reply_count": 1,
+    "repost_count": 0,
+    "created_at": 1756910905,
+    "url": "https://www.threads.net/@stability.ai/post/DOJN2klkQaI"
+  },
+  {
+    "id": "3692527256251121769",
+    "username": "stability.ai",
+    "text": "The creative industry is being challenged right now. Demand for content is skyrocketing, budgets are shrinking, and timelines are tighter than ever.\n\nAnd while we all know AI is here to help, not all AI is actually helping. \n\nMost AI isn’t built for enterprise level creative work because it requires the precision and control that your average AI just can’t provide.\n\nThat’s why today, we’re introducing Stability AI Solutions: A new offering designed to help enterprises scale creative production with generative AI. \n\nℹ️ What’s in a solution\nEach solution delivers custom models and workflows built with leading media generation and editing tools, along with everything needed to meet the standards of enterprise production: professional services, flexible deployment options, and built-in features such as brand safety guardrails, indemnification, compliance, and dedicated support. \n\n🔎 What’s available today\nOur initial suite of solutions is tailored for the Marketing / Advertising / Design verticals: Product Photography, Brand Style, Product Concepting & Design, and Digital Twins. \n\n🔌 Options for deployment\nStability AI Solutions can be deployed in a variety of ways to meet different enterprise needs: on-prem, via secure API endpoints, accessed through web-based applications, and through our ongoing collaboration with @wpp, also via WPP Open.\n\nYou can learn more on our blog via our bio 👆",
+    "like_count": 80,
+    "reply_count": 3,
+    "repost_count": 0,
+    "created_at": 1754403729,
+    "url": "https://www.threads.net/@stability.ai/post/DM-ffnIS8Bp"
+  },
+  {
+    "id": "3664286612701334510",
+    "username": "stability.ai",
+    "text": "In this week’s Stability Seconds, we’re showing you how to use prompt weighting, a technique that helps you control which parts of your prompt have more or less influence on the final image. It’s a fast way to steer your image toward your desired output without rewriting your prompt.\n\nHere’s how to do it:\n\n1️⃣ Emphasize elements: Put parentheses around the part of your prompt you want to focus on, then add a colon and a number. For example, (trench coat:1.5) tells the model to emphasize the trench coat. The higher the number, the more it stands out.\n\n2️⃣ De-emphasize elements: Put parentheses around the part of your prompt you want to make less prominent, then add a colon and a number below one. For example, (background:0.5). The lower the number, the less it stands out.\n\nYou can try prompt weighting with Stable Image Ultra on our website's learning hub.",
+    "like_count": 45,
+    "reply_count": 3,
+    "repost_count": 0,
+    "created_at": 1751037055,
+    "url": "https://www.threads.net/@stability.ai/post/DLaKUKRSEvu"
+  },
+  {
+    "id": "3659222959832842560",
+    "username": "stability.ai",
+    "text": "In this week's Stability Seconds, we’re getting you up to speed on how to use simple prompting techniques to create more precise images faster by not having to rewrite your prompt. Here’s how:\n\n1️⃣ Use positive and negative prompts: Combine positive prompts to describe what should appear in the image, like “an editorial close-up,” and negative prompts to guide the model away from unwanted elements, such as “low resolution.”\n\n2️⃣ Create prompt journals: When using Stable Image Ultra, try the prompt journal node to store a list of prompts directly into your workflow. This keeps your best prompts in one place, so you can easily reuse them or build on them later.\n\nYou can find more prompting techniques and start creating with Stable Image Ultra on our website's learning hub.",
+    "like_count": 53,
+    "reply_count": 3,
+    "repost_count": 0,
+    "created_at": 1750433418,
+    "url": "https://www.threads.net/@stability.ai/post/DLIK-UCykFA"
+  },
+  {
+    "id": "3648573106068954017",
+    "username": "stability.ai",
+    "text": "Today, we're breaking down how to use image-to-image with Stable Image Ultra in less than a minute ⏰\n\nThis workflow allows you to:\n\n1️⃣ Apply a new style while preserving structure\n2️⃣ Maintain a consistent look across a full set of assets\n3️⃣ Iterate faster by working from a visual reference\n\nYou can use Stable Image Ultra in @comfyui through its native API nodes, or access the model directly on the Stability AI API.",
+    "like_count": 59,
+    "reply_count": 3,
+    "repost_count": 0,
+    "created_at": 1749163856,
+    "url": "https://www.threads.net/@stability.ai/post/DKiVei0SJuh"
+  },
+  {
+    "id": "3638939942853837562",
+    "username": "stability.ai",
+    "text": "We’re kicking off Stability Seconds, a new series of mini tutorials designed for those who want to spend more time creating and less time configuring ⏰\n\nEach episode will break down how to use our generative tools into simple steps — just enough to move you forward without slowing you down.\n\nToday's topic: how to set up ComfyUI with our models, so you can start generating images using a workflow that doesn’t require an API key or GPU.",
+    "like_count": 109,
+    "reply_count": 1,
+    "repost_count": 0,
+    "created_at": 1748015501,
+    "url": "https://www.threads.net/@stability.ai/post/DKAHJkcyIL6"
+  }
+]

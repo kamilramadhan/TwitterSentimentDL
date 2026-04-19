@@ -1,0 +1,122 @@
+[
+  {
+    "id": "3877555383929280335",
+    "username": "nvidiaai",
+    "text": "Here's your weekend project: Build a fully local, sandboxed AI assistant.\n\nStep-by-step tutorial to build your always-on agent:\n\n🦞 on OpenClaw\n✅ with NVIDIA NemoClaw\n✨ using NVIDIA DGX Spark\n\nGet started: see our link-in-bio or search our technical blog for details.",
+    "like_count": 211,
+    "reply_count": 10,
+    "repost_count": 0,
+    "created_at": 1776460689,
+    "url": "https://www.threads.net/@nvidiaai/post/DXP2BPYAhdP"
+  },
+  {
+    "id": "3875925479400799007",
+    "username": "nvidiaai",
+    "text": "💡Cost per token is the metric that defines inference TCO, not compute cost or FLOPS per dollar.\n\nIt’s what determines whether AI can scale efficiently and profitably in the real world 📈.\n\nNVIDIA Blackwell which delivers the lowest cost per token in the industry is available through leading providers like CoreWeave, Nebius, Nscale and TogetherAI. \n\nVisit the link in our bio to read why token cost is the most important business metric for AI.",
+    "like_count": 711,
+    "reply_count": 11,
+    "repost_count": 0,
+    "created_at": 1776266351,
+    "url": "https://www.threads.net/@nvidiaai/post/DXKDbAfkfsf"
+  },
+  {
+    "id": "3874813182670022802",
+    "username": "nvidiaai",
+    "text": "Our new open-source AI model family, NVIDIA Ising, will transform quantum computing by using agentic AI to solve it's most complex challenges, like real-time error correction.\n\nNic Harrigan joins the NVIDIA AI Podcast to explain how this new open-source model family will help turn today's quantum hardware into tommorow's quantum-GPU supercomputers.\n\n📺 Watch the full episode, link in bio.",
+    "like_count": 121,
+    "reply_count": 5,
+    "repost_count": 0,
+    "created_at": 1776186003,
+    "url": "https://www.threads.net/@nvidiaai/post/DXGGg9cDCiS"
+  },
+  {
+    "id": "3875166666833544420",
+    "username": "nvidiaai",
+    "text": "Introducing NVIDIA Ising, the world’s first open AI models to accelerate the path to useful quantum computers.\n\nResearchers and enterprises can now use AI-powered workflows for scalable, high-performance quantum systems with quantum processor calibration capabilities and quantum error-correction decoding.\n\nVisit our link in bio to learn more.",
+    "like_count": 2825,
+    "reply_count": 55,
+    "repost_count": 0,
+    "created_at": 1776175912,
+    "url": "https://www.threads.net/@nvidiaai/post/DXHW41ODETk"
+  },
+  {
+    "id": "3874551387661529646",
+    "username": "nvidiaai",
+    "text": "✨ How is AI reshaping the future of quantum computing?\n\nDon’t miss our Quantum Day, where top researchers, developers, and industry pioneers will share how they’re pushing the boundaries of quantum innovation across science and technology. \n\nWe will also unveil new announcements on how we're accelerating quantum computing . . .\n\n📅 April 14, 8 AM - 1:30 PM PT\n📍 Online \n💡 6 sessions with live Q&A\n\n🔗 See our link-in-bio or search our website.",
+    "like_count": 155,
+    "reply_count": 6,
+    "repost_count": 0,
+    "created_at": 1776102547,
+    "url": "https://www.threads.net/@nvidiaai/post/DXFK_V1j_Iu"
+  },
+  {
+    "id": "3872415566686497823",
+    "username": "nvidiaai",
+    "text": "Green and red have never looked so good. 💚🦞\n\nOur CEO Jensen Huang surprises Peter Steinberger, creator of OpenClaw, at the #NVIDIAGTC keynote pregame.",
+    "like_count": 2728,
+    "reply_count": 82,
+    "repost_count": 0,
+    "created_at": 1775848030,
+    "url": "https://www.threads.net/@nvidiaai/post/DW9lXDjCqwf"
+  },
+  {
+    "id": "3866527670109395233",
+    "username": "nvidiaai",
+    "text": "🙌 Congrats @GoogleforDevs on the release of your Gemma 4 models. \n\nThe new multimodal and multilingual models are built for fast, efficient, and secure AI across devices – and optimized to run locally on NVIDIA RTX, RTX PRO, DGX Spark, and Jetson.\n\n👉 Prototype the 31B model and start experimenting for free, and check out the details in our technical blog. See our link-in-bio for details.",
+    "like_count": 4782,
+    "reply_count": 55,
+    "repost_count": 0,
+    "created_at": 1775146958,
+    "url": "https://www.threads.net/@nvidiaai/post/DWoqm4jFtkh"
+  },
+  {
+    "id": "3862409441782043816",
+    "username": "nvidiaai",
+    "text": "Missing #NVIDIAGTC already? 💚\n\nWe hit the showfloor last week to hear what attendees had to say about the conference.\n\nWant more? Watch Physical AI Days sessions on demand at the link in bio.",
+    "like_count": 183,
+    "reply_count": 14,
+    "repost_count": 0,
+    "created_at": 1774655170,
+    "url": "https://www.threads.net/@nvidiaai/post/DWaCOxiiJSo"
+  },
+  {
+    "id": "3861761480458430220",
+    "username": "nvidiaai",
+    "text": "“Hey Mercedes, why is the Transamerica Pyramid shaped like that?” 🏙️\n\nNVIDIA Alpamayo in-car reasoning allows you to ask questions about your surroundings, hear the car verbalize its driving decisions, and request natural actions like changing lanes or taking a detour.\n\n📺 Watch the video. Link in bio.",
+    "like_count": 1917,
+    "reply_count": 24,
+    "repost_count": 0,
+    "created_at": 1774627203,
+    "url": "https://www.threads.net/@nvidiaai/post/DWXu5siAucM"
+  },
+  {
+    "id": "3860070476068006607",
+    "username": "nvidiaai",
+    "text": "Scalable AI requires more intelligence for every single watt used and every single dollar spent.\n\nOn the @lexfridman podcast, NVIDIA CEO Jensen Huang explains why extreme co-design is essential for AI efficiency.\n\nWatch the full episode now. Link in bio.",
+    "like_count": 295,
+    "reply_count": 5,
+    "repost_count": 0,
+    "created_at": 1774376319,
+    "url": "https://www.threads.net/@nvidiaai/post/DWRuaV-AarP"
+  },
+  {
+    "id": "3859048285294849952",
+    "username": "nvidiaai",
+    "text": "A new class of AI is emerging: autonomous agents that achieve complex tasks. \n\nTo deploy them responsibly means building in governance from day one. \n\nNVIDIA OpenShell unifies open innovation with built-in security and privacy controls —so agents can operate more securely, predictably, and in line with policies.\n\nLearn more in our link in bio.",
+    "like_count": 295,
+    "reply_count": 14,
+    "repost_count": 0,
+    "created_at": 1774278003,
+    "url": "https://www.threads.net/@nvidiaai/post/DWOF_goFG-g"
+  },
+  {
+    "id": "3856685268292835615",
+    "username": "nvidiaai",
+    "text": "Walk the #NVIDIAGTC show floor with Neil Ashton as he shares how real‑time digital twins and AI agents are shrinking design cycles and removing bottlenecks in computer‑aided engineering (CAE).\n\nLearn more about CAE. Link in bio.",
+    "like_count": 187,
+    "reply_count": 8,
+    "repost_count": 0,
+    "created_at": 1773972775,
+    "url": "https://www.threads.net/@nvidiaai/post/DWFstFjE5kf"
+  }
+]

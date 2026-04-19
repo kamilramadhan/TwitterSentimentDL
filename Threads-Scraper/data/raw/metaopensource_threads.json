@@ -1,0 +1,122 @@
+[
+  {
+    "id": "3815097391872345430",
+    "username": "metaopensource",
+    "text": "⚡️OSS Project Spotlight⚡️\n\nIGListKit is a data-driven UICollectionView framework for building fast and flexible lists on iOS. It features a decoupled diffing algorithm that handles updates automatically, completely eliminating the need for reloadData or performBatchUpdates.\n\nLearn more: https://instagram.github.io/IGListKit/",
+    "like_count": 29,
+    "reply_count": 17,
+    "repost_count": 0,
+    "created_at": 1769015220,
+    "url": "https://www.threads.net/@metaopensource/post/DTx8t1aEgVW"
+  },
+  {
+    "id": "3798426875828876718",
+    "username": "metaopensource",
+    "text": "Python typing is trending — and the community has spoken! 📊 \n\nFrom improved readability to better tooling support, see what developers love (and struggle with) in 2025: \n\nhttps://engineering.fb.com/2025/12/22/developer-tools/python-typing-survey-2025-code-quality-flexibility-typing-adoption/",
+    "like_count": 36,
+    "reply_count": 1,
+    "repost_count": 0,
+    "created_at": 1767027924,
+    "url": "https://www.threads.net/@metaopensource/post/DS2uR5fE7Wu"
+  },
+  {
+    "id": "3769439294701313931",
+    "username": "metaopensource",
+    "text": "We’re thrilled to share that Pyrefly is now available in Beta 🎉\n\nPyrefly is a super fast, open source language server and typechecker for Python, first released in April 2025. Since then, we’ve been working closely with our open source community to improve performance, add new features and address bugs.\n\nTo learn more and get started:\n\n▶️ Watch our YouTube video for the highlights of this milestone: https://youtu.be/4o0RLJJ-FAo\n\n📖 Read the announcement and find copy-pasteable code snippets in the Pyrefly blog: https://pyrefly.org/blog/pyrefly-beta/\n\nThank you to everyone who has tried Pyrefly thus far, shared your experiences, and helped us improve to this point. We hope you continue to enjoy the project and keep providing feedback as we work toward a stable release next!\n\n#Pyrefly #BetaRelease #Python #OpenSource",
+    "like_count": 30,
+    "reply_count": 13,
+    "repost_count": 0,
+    "created_at": 1763572218,
+    "url": "https://www.threads.net/@metaopensource/post/DRPvREzEh-L"
+  },
+  {
+    "id": "3768714543556868989",
+    "username": "metaopensource",
+    "text": "🚀 New Blog Post Alert 🚀\n\nLearn how Ax, our open source adaptive experimentation platform, uses machine learning to automate and optimize complex experiments.\n\n🔍 What’s Inside?\n\n- See real-world applications across AI, GenAI, infrastructure, and even physical engineering.\n- Discover how Ax is powering innovation at Meta and beyond.\n- Explore advanced Bayesian optimization for smarter, faster results.\n\n👉 Read the full post: https://engineering.fb.com/2025/11/18/open-source/efficient-optimization-ax-open-platform-adaptive-experimentation\n👉 Get started with Ax on GitHub: `pip install ax-platform`\n\n#OpenSource #MachineLearning #AI #Experimentation",
+    "like_count": 15,
+    "reply_count": 13,
+    "repost_count": 0,
+    "created_at": 1763485823,
+    "url": "https://www.threads.net/@metaopensource/post/DRNKejsjjt9"
+  },
+  {
+    "id": "3768141627601481505",
+    "username": "metaopensource",
+    "text": "Did you know that 63% of AI training models today are built on PyTorch? \nWhen Meta first released the framework in 2016, we wanted to support training and developer experiences for AI researchers. Today, PyTorch’s mission has expanded — helping accelerate the path to AI productization for companies around the world.",
+    "like_count": 26,
+    "reply_count": 14,
+    "repost_count": 0,
+    "created_at": 1763417565,
+    "url": "https://www.threads.net/@metaopensource/post/DRLINiIjG8h"
+  },
+  {
+    "id": "3764362537232824110",
+    "username": "metaopensource",
+    "text": "⚡️OSS Project Spotlight⚡️ \n\nBelow is an open source resource monitoring and analysis tool for Linux systems, built to give developers a clearer picture of what’s happening under the hood.\n\nIt captures detailed metrics for CPU, memory, I/O, cgroups, and processes — offering both live monitoring and post-hoc performance analysis through an intuitive terminal UI. Originally developed at Meta, Below helps engineers diagnose complex performance issues at scale.\n\nLearn more: https://github.com/facebookincubator/below",
+    "like_count": 14,
+    "reply_count": 0,
+    "repost_count": 0,
+    "created_at": 1762967164,
+    "url": "https://www.threads.net/@metaopensource/post/DQ9s8h9jPcu"
+  },
+  {
+    "id": "3763641692479019746",
+    "username": "metaopensource",
+    "text": "🚀 StyleX: Meta’s Open Source Styling Library for CSS at Scale!\n\nStyleX is the styling system used across Facebook, Instagram, WhatsApp, Threads, as well as companies and products outside of Meta. It combines the best of CSS-in-JS ergonomics with the performance of static CSS—making styling expressive, type-safe, and lightning fast.\n\n🔹 Why StyleX?\n\n- Collision-free atomic CSS\n- Predictable, scalable, and maintainable styles\n- Used across Meta and by the broader community\n\n👉 Read the full story: https://engineering.fb.com/2025/11/11/web/stylex-a-styling-library-for-css-at-scale\n\n#OpenSource #WebDevelopment #CSS",
+    "like_count": 17,
+    "reply_count": 1,
+    "repost_count": 0,
+    "created_at": 1762881090,
+    "url": "https://www.threads.net/@metaopensource/post/DQ7JC2-D9ri"
+  },
+  {
+    "id": "3135349272845046941",
+    "username": "metaopensource",
+    "text": "Vitalii Topoliuk is an engineer on the Desktop Messenger App at Meta working on allowing users to stay in touch directly from their computer. Read about his journey using React to build the Desktop Messenger App via the link in our bio.",
+    "like_count": 161,
+    "reply_count": 33,
+    "repost_count": 0,
+    "created_at": 1687982826,
+    "url": "https://www.threads.net/@metaopensource/post/CuC_41GtVSd"
+  },
+  {
+    "id": "3125121360844980404",
+    "username": "metaopensource",
+    "text": "Build scalable and reproducible coding solutions. Learn how the marsci R library has empowered users from all backgrounds to collaborate, scale and share insights - plus get tips on how to build your own via the link in our bio.",
+    "like_count": 78,
+    "reply_count": 16,
+    "repost_count": 0,
+    "created_at": 1686763518,
+    "url": "https://www.threads.net/@metaopensource/post/CteqVHxJoC0"
+  },
+  {
+    "id": "3120076632182427511",
+    "username": "metaopensource",
+    "text": "Folly Dynamic is an #OpenSource tool that conveniently provides developers with a runtime dynamically typed value for C++, similar to the way languages with runtime systems work. \n\nGet started by visiting the GitHub link in our bio!",
+    "like_count": 95,
+    "reply_count": 13,
+    "repost_count": 0,
+    "created_at": 1686162183,
+    "url": "https://www.threads.net/@metaopensource/post/CtMvSqFOw93"
+  },
+  {
+    "id": "3115082001158919179",
+    "username": "metaopensource",
+    "text": "Learn how to foster a more safe and inclusive space that promotes a sense of belonging and inclusivity for everyone via the link in our bio.",
+    "like_count": 60,
+    "reply_count": 3,
+    "repost_count": 0,
+    "created_at": 1685566733,
+    "url": "https://www.threads.net/@metaopensource/post/Cs6_pNdSlQL"
+  },
+  {
+    "id": "3105479310962514094",
+    "username": "metaopensource",
+    "text": "🌿Meet Sapling 🌿\n\nThis user-friendly source control system lets developers:\n\n-Build at scale with an intuitive UI\n-Integrate with Git to seamlessly host projects\n-Stack your work easily with provided stacking methods\n\nTo get started head to the link in our bio.",
+    "like_count": 45,
+    "reply_count": 1,
+    "repost_count": 0,
+    "created_at": 1684422004,
+    "url": "https://www.threads.net/@metaopensource/post/CsY4PrTPtiu"
+  }
+]

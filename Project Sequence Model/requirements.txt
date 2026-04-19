@@ -1,0 +1,7 @@
+torch
+gensim
+pandas
+scikit-learn
+matplotlib
+seaborn
+numpy

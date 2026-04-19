@@ -1,0 +1,14 @@
+{
+  "input": "/Users/muhammadrizalhafiyyan/Kuliah/Semester_6/Deep Learning/Tugas 2/Threads-Scraper/output/threads_results.csv",
+  "raw_glob": "/Users/muhammadrizalhafiyyan/Kuliah/Semester_6/Deep Learning/Tugas 2/Threads-Scraper/data/raw/*.json",
+  "output": "/Users/muhammadrizalhafiyyan/Kuliah/Semester_6/Deep Learning/Tugas 2/Threads-Scraper/data/processed/pseudolabeled_threads_5000.csv",
+  "rows_labeled": 5000,
+  "seed_rows_from_csv": 1216,
+  "rows_scanned_from_raw": 5021,
+  "label_distribution": {
+    "neutral": 4742,
+    "positive": 238,
+    "negative": 20
+  },
+  "average_confidence": 0.5251
+}

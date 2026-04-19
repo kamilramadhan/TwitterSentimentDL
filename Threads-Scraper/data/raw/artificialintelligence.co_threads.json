@@ -1,0 +1,122 @@
+[
+  {
+    "id": "3872216779728742463",
+    "username": "artificialintelligence.co",
+    "text": "A New Yorker exposé, covered by Futurism, reveals a critical view of OpenAI CEO Sam Altman. According to insiders, Altman lacks strong technical skills in programming or machine learning despite leading a major AI company. \n\nSome engineers say he often misunderstands basic AI concepts, contradicting his public image as a technical leader.",
+    "like_count": 18447,
+    "reply_count": 651,
+    "repost_count": 0,
+    "created_at": 1775824249,
+    "url": "https://www.threads.net/@artificialintelligence.co/post/DW84KUxCeg_"
+  },
+  {
+    "id": "3865089662620599005",
+    "username": "artificialintelligence.co",
+    "text": "Anthropic accidentally leaked the source code for Claude Code via a public npm source map, exposing ~500K lines across ~1,900 files.\n\nIt doesn’t include the model itself no weights or training data but reveals how Anthropic builds its tools and agent workflows.\n\nGitHub link: https://github.com/instructkr/claude-code",
+    "like_count": 11215,
+    "reply_count": 242,
+    "repost_count": 0,
+    "created_at": 1774974614,
+    "url": "https://www.threads.net/@artificialintelligence.co/post/DWjjpHtiQLd"
+  },
+  {
+    "id": "3845521557837923539",
+    "username": "artificialintelligence.co",
+    "text": "China released Origin Pilot, the world’s first open-source quantum computer OS, free for global download. \n\nDeveloped by Origin Quantum, it powers their Wukong quantum hardware, manages tasks, qubits, and AI integration across platforms. This boosts self-reliance, invites developers worldwide, and advances quantum tech per China’s Five-Year Plan.",
+    "like_count": 39540,
+    "reply_count": 638,
+    "repost_count": 0,
+    "created_at": 1772641914,
+    "url": "https://www.threads.net/@artificialintelligence.co/post/DVeCXt_CUTT"
+  },
+  {
+    "id": "3878135918980828774",
+    "username": "artificialintelligence.co",
+    "text": "OpenAl just published the first comprehensive study of how 700 million people actually use ChatGPT.\n\nThe results destroy every assumption about Al adoption.",
+    "like_count": 930,
+    "reply_count": 14,
+    "repost_count": 0,
+    "created_at": 1776529849,
+    "url": "https://www.threads.net/@artificialintelligence.co/post/DXR6BIxiQ5m"
+  },
+  {
+    "id": "3877954869072090856",
+    "username": "artificialintelligence.co",
+    "text": "Anthropic’s Claude now helps teams turn prompts into designs, prototypes, slides, and marketing assets in minutes instead of days. \n\nIt can also use a company’s files, code, and brand style to create work that looks consistent and polished. This makes design faster, simpler, and easier for product teams, founders, and marketers.",
+    "like_count": 918,
+    "reply_count": 19,
+    "repost_count": 0,
+    "created_at": 1776508266,
+    "url": "https://www.threads.net/@artificialintelligence.co/post/DXRQ2g6Cdbo"
+  },
+  {
+    "id": "3877410549705290885",
+    "username": "artificialintelligence.co",
+    "text": "“This is a necessary step. Audiences must accept it.” - Josh D’Amaro\n\n[Source: forbes]",
+    "like_count": 354,
+    "reply_count": 53,
+    "repost_count": 0,
+    "created_at": 1776443404,
+    "url": "https://www.threads.net/@artificialintelligence.co/post/DXPVFn_iTSF"
+  },
+  {
+    "id": "3877366036907516551",
+    "username": "artificialintelligence.co",
+    "text": "Nvidia CEO Jensen Huang strongly defended selling AI chips to China in a viral Dwarkesh Patel podcast. He called export bans “childish,” saying China already has strong tech and U.S. limits only hurt America. Nvidia’s China market share fell from 95% to zero, risking U.S. AI leadership and profits.\n\n[Media Credit: dwarkesh patel]",
+    "like_count": 405,
+    "reply_count": 26,
+    "repost_count": 0,
+    "created_at": 1776438072,
+    "url": "https://www.threads.net/@artificialintelligence.co/post/DXPK94OCWKH"
+  },
+  {
+    "id": "3877230162127486936",
+    "username": "artificialintelligence.co",
+    "text": "Anthropic released Claude Opus 4.7 on April 16, 2026. This new AI model is their most powerful public release yet. It’s better at coding, long tasks, and understanding high-resolution images. It’s also safer. \n\nOpus 4.7 beats GPT-5.4 and Gemini 3.1 Pro in coding but is not as strong as Anthropic’s private Mythos model.",
+    "like_count": 779,
+    "reply_count": 7,
+    "repost_count": 0,
+    "created_at": 1776421874,
+    "url": "https://www.threads.net/@artificialintelligence.co/post/DXOsEo-Cf_Y"
+  },
+  {
+    "id": "3876798549086903133",
+    "username": "artificialintelligence.co",
+    "text": "@repl.it is how a finance guy with no coding experience built a six-figure SaaS — with users at Amazon, Google, Netflix, TikTok, and the NFL.\n\nEman Khoubian came from finance, not engineering. He ran a real estate investment firm in LA, held senior roles at Google and Deloitte, and had never built a tech product. No developers. No technical co-founder. No runway to hire one.\n\nJust an idea he’d been sitting on for years — and Replit to finally build it.\n\nHe built WhisperAI: a full-stack transcription platform with live recording, real-time translation across 100+ languages, speaker detection, AI-generated summaries, meeting efficiency scores, and action item extraction.\nDatabase, authentication, storage, and deployment all included. The whole thing runs on @repl.it \n\nSix-figure ARR in 4 months. 100 new subscribers per day. Over a million minutes of audio transcribed. Users across 100+ countries. Acquisition offers coming in.\nOne founder. Zero hires.\n\n“If I can do it, it doesn’t stop anyone else from doing it. Without  @amjad_masad ’s Replit I couldn’t have done it.“\n\nYou don’t need a technical background. Just an idea, and the right tools to build it.\n\n#tech #vibecoding #ReplitPartner",
+    "like_count": 490,
+    "reply_count": 8,
+    "repost_count": 0,
+    "created_at": 1776370422,
+    "url": "https://www.threads.net/@artificialintelligence.co/post/DXNJ72AExtd"
+  },
+  {
+    "id": "3876686121312841932",
+    "username": "artificialintelligence.co",
+    "text": "OpenAI told investors Anthropic inflates revenue by $8B and has less compute power. \n\nOpenAI plans 30GW compute by 2030, while Anthropic may reach 7–8GW by 2027. \n\nAnthropic grows fast in coding tools but faces cash limits. Both AI giants eye IPOs amid rising competition and cost concerns.",
+    "like_count": 285,
+    "reply_count": 15,
+    "repost_count": 0,
+    "created_at": 1776357043,
+    "url": "https://www.threads.net/@artificialintelligence.co/post/DXMwXzeifDM"
+  },
+  {
+    "id": "3876505602335810265",
+    "username": "artificialintelligence.co",
+    "text": "Mark Zuckerberg moved his desk into Meta’s AI lab to work daily with Chief AI Officer Alexandr Wang and former GitHub CEO Nat Friedman. \n\nHe’s coding for hours each week to better understand AI and help Meta compete with OpenAI and Google. The move shows Zuckerberg’s deep focus on building powerful AI models.",
+    "like_count": 332,
+    "reply_count": 19,
+    "repost_count": 0,
+    "created_at": 1776335500,
+    "url": "https://www.threads.net/@artificialintelligence.co/post/DXMHU6FCaLZ"
+  },
+  {
+    "id": "3875961633503788733",
+    "username": "artificialintelligence.co",
+    "text": "Allbirds, the sustainable shoe brand, is now an AI compute company. It sold its footwear business for $39 million and plans to rename to NewBird AI. \n\nThe firm raised $50 million to buy GPUs and offer GPU-as-a-Service. After the news, Allbirds stock surged 600%",
+    "like_count": 165,
+    "reply_count": 10,
+    "repost_count": 0,
+    "created_at": 1776270654,
+    "url": "https://www.threads.net/@artificialintelligence.co/post/DXKLpHoCT69"
+  }
+]

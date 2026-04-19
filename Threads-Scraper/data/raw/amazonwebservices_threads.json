@@ -1,0 +1,122 @@
+[
+  {
+    "id": "3871662441311134787",
+    "username": "amazonwebservices",
+    "text": "What’s Next with AWS. April 28, 9am PT. \n\nA candid conversation about agentic AI. Join Matt Garman, Colleen Aubrey, and Julia White live. \n\nLink in bio.",
+    "like_count": 223,
+    "reply_count": 6,
+    "repost_count": 0,
+    "created_at": 1775761206,
+    "url": "https://www.threads.net/@amazonwebservices/post/DW66Ho4kmRD"
+  },
+  {
+    "id": "3871598326072602083",
+    "username": "amazonwebservices",
+    "text": "When agentic AI shifts from potential to impact. \n\nApril 28, 9am PT. AWS leadership shows you What's Next with AWS. \n\nWatch the conversation live. Link in bio.",
+    "like_count": 156,
+    "reply_count": 3,
+    "repost_count": 0,
+    "created_at": 1775750514,
+    "url": "https://www.threads.net/@amazonwebservices/post/DW6rio6je3j"
+  },
+  {
+    "id": "3869410358036959244",
+    "username": "amazonwebservices",
+    "text": "Introducing Amazon Quick. \n\nThe AI layer that works wherever you work, connecting apps, understanding context, and turning answers into actions.\n\nAmazon Quick brings it all together.\n\nLink in Bio.",
+    "like_count": 545,
+    "reply_count": 12,
+    "repost_count": 0,
+    "created_at": 1775498409,
+    "url": "https://www.threads.net/@amazonwebservices/post/DWy6Dg5ApAM"
+  },
+  {
+    "id": "3865245898650027343",
+    "username": "amazonwebservices",
+    "text": "AWS DevOps Agent is now generally available.\n\nYour always-available operations teammate that autonomously investigates incidents the moment an alert comes in, reducing mean time to resolution from hours to minutes across AWS, multicloud, and on-prem environments.\n\nGet proactive recommendations that prevent future incidents and strengthen system resilience based on patterns across historical incidents.\n\nLink in Bio.",
+    "like_count": 277,
+    "reply_count": 67,
+    "repost_count": 0,
+    "created_at": 1774993290,
+    "url": "https://www.threads.net/@amazonwebservices/post/DWkHKp2kgVP"
+  },
+  {
+    "id": "3865116561472524444",
+    "username": "amazonwebservices",
+    "text": "AWS Security Agent is now generally available.\n\nScale security testing across your application portfolio with on-demand penetration testing that matches your development velocity.\n\nBy conducting tailored attack scenarios, AWS Security Agent identifies validated vulnerabilities with reproducible proof and actionable fixes.\n\nLink in Bio.",
+    "like_count": 275,
+    "reply_count": 52,
+    "repost_count": 0,
+    "created_at": 1774977881,
+    "url": "https://www.threads.net/@amazonwebservices/post/DWjpwjODJCc"
+  },
+  {
+    "id": "3852217346941928149",
+    "username": "amazonwebservices",
+    "text": "We’re teaming up with Cerebras to build the fastest possible inference.\n\nComing soon to Amazon Bedrock, we’re delivering inference performance an order of magnitude faster than what’s available today by connecting AWS Trainium3 for compute-intensive prefill with Cerebras CS-3 to power decode.\n\nLearn more about the partnership through the link in Bio. 🔗",
+    "like_count": 467,
+    "reply_count": 30,
+    "repost_count": 0,
+    "created_at": 1773440234,
+    "url": "https://www.threads.net/@amazonwebservices/post/DV100RiEkLV"
+  },
+  {
+    "id": "3842034468748486623",
+    "username": "amazonwebservices",
+    "text": "Our strategic partnership with @openai is expanding.\n\nTogether, we're co-creating a Stateful Runtime Environment powered by OpenAI models, available on Amazon Bedrock for AWS customers to build generative AI applications and agents at production scale.\n\nTo support demand for Stateful Runtime Environment, Frontier, and other advanced workloads, OpenAI will consume 2 gigawatts of Trainium capacity through AWS infrastructure.\n\nLink in Bio.",
+    "like_count": 1857,
+    "reply_count": 46,
+    "repost_count": 0,
+    "created_at": 1772226236,
+    "url": "https://www.threads.net/@amazonwebservices/post/DVRpf5Mj2ff"
+  },
+  {
+    "id": "3841224762278760631",
+    "username": "amazonwebservices",
+    "text": "Domain expertise meets machine learning for the @nfl. One stat, endless insights.\n\nMissed an episode? Link in Bio 🔗",
+    "like_count": 339,
+    "reply_count": 6,
+    "repost_count": 0,
+    "created_at": 1772129704,
+    "url": "https://www.threads.net/@amazonwebservices/post/DVOxZHSD1C3"
+  },
+  {
+    "id": "3840462902406969001",
+    "username": "amazonwebservices",
+    "text": "Just how do BVB stop @FCBayern's Michael Olise in Der Klassiker? 🇫🇷🪄\n\nWith AWS, we take a deep dive into what makes the French maestro seemingly unstoppable🔎🎩\n\n#Bundesliga | #Rivals | #BMFDeepDive | @M.Olise | @AmazonWebServices",
+    "like_count": 7701,
+    "reply_count": 28,
+    "repost_count": 0,
+    "created_at": 1772038911,
+    "url": "https://www.threads.net/@amazonwebservices/post/DVMEKl_CHap"
+  },
+  {
+    "id": "3839394312858396108",
+    "username": "amazonwebservices",
+    "text": "AI answers your questions in seconds, but behind that speed is something called inference—the compute-intensive process where trained models generate responses.\n\nStep 1: Tokenization (5-10 milliseconds) Faster than the blink of an eye (100-150 milliseconds) your question gets broken down into digestible pieces.\n\nStep 2: Prefill (10-100 milliseconds) Still faster than a single eyeblink, the model is processing your full prompt and building something called a key-value cache—essentially a reference guide it will use to generate your answer.\n\nStep 3: Decode (100-1,000+ milliseconds) About as long as it takes you to snap your fingers (roughly 150 milliseconds), the model constructs your entire answer, one piece at a time.\n\nStep 4: Detokenization (final milliseconds) Before you can say “thank you” (about 600 milliseconds) those tokens are being converted back into readable text and streaming to your screen.\n\nLink in bio",
+    "like_count": 250,
+    "reply_count": 6,
+    "repost_count": 0,
+    "created_at": 1771966803,
+    "url": "https://www.threads.net/@amazonwebservices/post/DVIRMkalGXM"
+  },
+  {
+    "id": "3839804967272529603",
+    "username": "amazonwebservices",
+    "text": "AWS Elemental Inference is now available. \n\nTurn live broadcasts into vertical video and highlight clips for TikTok, Instagram Reels, & YouTube Shorts automatically. \n\nWith AWS Elemental Inference, @nbcuniversal and @foxsports deliver content for any platform in real time, capturing key moments while they're happening instead of waiting for post-production.\n\nLink in Bio.",
+    "like_count": 358,
+    "reply_count": 43,
+    "repost_count": 0,
+    "created_at": 1771960488,
+    "url": "https://www.threads.net/@amazonwebservices/post/DVJukYJDz7D"
+  },
+  {
+    "id": "3836971645285813791",
+    "username": "amazonwebservices",
+    "text": "The Amazon Nova AI Hackathon is heating up, with over 8,000 participants already building with frontier AI.\n\nWith 24 days remaining, this is your opportunity to innovate using Nova's advanced reasoning, multimodal understanding, voice AI, and UI automation capabilities - and compete for $40K in cash prizes.\n\nWhether you're creating agentic systems, voice experiences, or automating workflows, this is your chance to showcase your skills.\n\nDon't miss out. Link in bio.",
+    "like_count": 280,
+    "reply_count": 25,
+    "repost_count": 0,
+    "created_at": 1771689606,
+    "url": "https://www.threads.net/@amazonwebservices/post/DU_qWHagc4f"
+  }
+]
